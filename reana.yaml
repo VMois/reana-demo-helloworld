@@ -1,6 +1,7 @@
 version: 0.3.0
 inputs:
   files:
+    - "../"
     - code/helloworld.py
     - data/names.txt
   parameters:
